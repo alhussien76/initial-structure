@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
 
+## Description 
+
+This is intial structure to start your project quickly 
+
+## Installed packages 
+
+1- bootstrap 5
+
+2- rxjs 7
+
+3- pooper
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
